@@ -12,7 +12,7 @@ component that will change what it displays based on state.
 - Explain the difference between changing state and changing props
 
 ## Updating State
-
+`
 ![Unknown state](https://media.giphy.com/media/fFIaNdVhdvoOc/giphy.gif)
 
 While a React component can have initial state, the real power is in _updating_
